@@ -1,0 +1,22 @@
+calendar_name = "My Calendar"
+
+[[events]]
+title = "Team Standup"
+start_time = "2026-05-15T09:00:00Z"
+end_time = "2026-05-15T09:30:00Z"
+location = "Conference Room A"
+description = "Daily team standup meeting"
+reminder = 15
+
+[[events]]
+title = "Company All-Hands"
+start_time = "2026-06-01T14:00:00Z"
+end_time = "2026-06-01T15:30:00Z"
+location = "Main Hall"
+description = "Quarterly company all-hands meeting"
+rrule = "FREQ=MONTHLY;COUNT=6"
+reminder = 30
+
+[[events]]
+title = "Lunch Break"
+start_time = "2026-05-15T12:00:00Z"
