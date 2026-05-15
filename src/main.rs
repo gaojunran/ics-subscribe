@@ -6,7 +6,8 @@ use axum::{Router, routing::get};
 use config::Config;
 
 async fn serve_ics() -> impl IntoResponse {
-    let config = Config::load("config.toml").expect("failed to load config");
+    let config_path = std::env::var("CONFIG_PATH").unwrap_or_else(|_| "config.toml".to_string());
+    let config = Config::load(&config_path).expect("failed to load config");
     let ics_content = calendar::build_calendar(&config);
 
     (
@@ -21,10 +22,17 @@ async fn serve_ics() -> impl IntoResponse {
 
 #[tokio::main]
 async fn main() {
+    let config_path = std::env::var("CONFIG_PATH").unwrap_or_else(|_| "config.toml".to_string());
+    let port: u16 = std::env::var("PORT")
+        .ok()
+        .and_then(|s| s.parse().ok())
+        .unwrap_or(3000);
+
     let app = Router::new().route("/calendar.ics", get(serve_ics));
-    let listener = tokio::net::TcpListener::bind("0.0.0.0:3000")
+    let addr = format!("0.0.0.0:{port}");
+    let listener = tokio::net::TcpListener::bind(&addr)
         .await
-        .expect("failed to bind to port 3000");
-    println!("Serving ICS at http://localhost:3000/calendar.ics");
+        .expect("failed to bind");
+    println!("Serving ICS at http://localhost:{port}/calendar.ics (config: {config_path})");
     axum::serve(listener, app).await.unwrap();
 }

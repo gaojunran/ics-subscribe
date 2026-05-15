@@ -1,0 +1,685 @@
+calendar_name = "34082301 实训课表"
+
+[[events]]
+title = "实训课(线上)"
+start_time = "2026-05-18T19:00:00+08:00"
+end_time = "2026-05-18T21:40:00+08:00"
+description = "第12周 周一 晚上 线上"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-19T08:00:00+08:00"
+end_time = "2026-05-19T11:50:00+08:00"
+location = "A405"
+description = "第12周 周二 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-19T19:00:00+08:00"
+end_time = "2026-05-19T21:40:00+08:00"
+location = "A405"
+description = "第12周 周二 晚上 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-20T19:00:00+08:00"
+end_time = "2026-05-20T21:40:00+08:00"
+location = "A405"
+description = "第12周 周三 晚上 A405"
+
+[[events]]
+title = "实训课(线上)"
+start_time = "2026-05-21T08:00:00+08:00"
+end_time = "2026-05-21T11:50:00+08:00"
+description = "第12周 周四 上午 线上"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-21T14:00:00+08:00"
+end_time = "2026-05-21T17:50:00+08:00"
+location = "A405"
+description = "第12周 周四 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-22T14:00:00+08:00"
+end_time = "2026-05-22T17:50:00+08:00"
+location = "A405"
+description = "第12周 周五 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-22T19:00:00+08:00"
+end_time = "2026-05-22T21:40:00+08:00"
+location = "A405"
+description = "第12周 周五 晚上 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-23T08:00:00+08:00"
+end_time = "2026-05-23T11:50:00+08:00"
+location = "A405"
+description = "第12周 周六 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-23T14:00:00+08:00"
+end_time = "2026-05-23T17:50:00+08:00"
+location = "A405"
+description = "第12周 周六 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-25T08:00:00+08:00"
+end_time = "2026-05-25T11:50:00+08:00"
+location = "A405"
+description = "第13周 周一 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-26T08:00:00+08:00"
+end_time = "2026-05-26T11:50:00+08:00"
+location = "A405"
+description = "第13周 周二 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-26T14:00:00+08:00"
+end_time = "2026-05-26T17:50:00+08:00"
+location = "A405"
+description = "第13周 周二 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-27T14:00:00+08:00"
+end_time = "2026-05-27T17:50:00+08:00"
+location = "A405"
+description = "第13周 周三 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-27T19:00:00+08:00"
+end_time = "2026-05-27T21:40:00+08:00"
+location = "A405"
+description = "第13周 周三 晚上 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-28T08:00:00+08:00"
+end_time = "2026-05-28T11:50:00+08:00"
+location = "A405"
+description = "第13周 周四 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-28T14:00:00+08:00"
+end_time = "2026-05-28T17:50:00+08:00"
+location = "A405"
+description = "第13周 周四 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-29T08:00:00+08:00"
+end_time = "2026-05-29T11:50:00+08:00"
+location = "A405"
+description = "第13周 周五 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-29T19:00:00+08:00"
+end_time = "2026-05-29T21:40:00+08:00"
+location = "A405"
+description = "第13周 周五 晚上 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-05-30T08:00:00+08:00"
+end_time = "2026-05-30T11:50:00+08:00"
+location = "A405"
+description = "第13周 周六 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-01T08:00:00+08:00"
+end_time = "2026-06-01T11:50:00+08:00"
+location = "A405"
+description = "第14周 周一 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-02T08:00:00+08:00"
+end_time = "2026-06-02T11:50:00+08:00"
+location = "A405"
+description = "第14周 周二 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-02T14:00:00+08:00"
+end_time = "2026-06-02T17:50:00+08:00"
+location = "A405"
+description = "第14周 周二 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-03T14:00:00+08:00"
+end_time = "2026-06-03T17:50:00+08:00"
+location = "A405"
+description = "第14周 周三 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-03T19:00:00+08:00"
+end_time = "2026-06-03T21:40:00+08:00"
+location = "A405"
+description = "第14周 周三 晚上 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-04T08:00:00+08:00"
+end_time = "2026-06-04T11:50:00+08:00"
+location = "A405"
+description = "第14周 周四 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-04T14:00:00+08:00"
+end_time = "2026-06-04T17:50:00+08:00"
+location = "A405"
+description = "第14周 周四 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-05T08:00:00+08:00"
+end_time = "2026-06-05T11:50:00+08:00"
+location = "A405"
+description = "第14周 周五 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-05T19:00:00+08:00"
+end_time = "2026-06-05T21:40:00+08:00"
+location = "A405"
+description = "第14周 周五 晚上 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-06T08:00:00+08:00"
+end_time = "2026-06-06T11:50:00+08:00"
+location = "A405"
+description = "第14周 周六 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-08T08:00:00+08:00"
+end_time = "2026-06-08T11:50:00+08:00"
+location = "A405"
+description = "第15周 周一 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-09T08:00:00+08:00"
+end_time = "2026-06-09T11:50:00+08:00"
+location = "A405"
+description = "第15周 周二 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-09T14:00:00+08:00"
+end_time = "2026-06-09T17:50:00+08:00"
+location = "A405"
+description = "第15周 周二 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-10T14:00:00+08:00"
+end_time = "2026-06-10T17:50:00+08:00"
+location = "A405"
+description = "第15周 周三 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-10T19:00:00+08:00"
+end_time = "2026-06-10T21:40:00+08:00"
+location = "A405"
+description = "第15周 周三 晚上 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-11T08:00:00+08:00"
+end_time = "2026-06-11T11:50:00+08:00"
+location = "A405"
+description = "第15周 周四 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-11T14:00:00+08:00"
+end_time = "2026-06-11T17:50:00+08:00"
+location = "A405"
+description = "第15周 周四 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-12T08:00:00+08:00"
+end_time = "2026-06-12T11:50:00+08:00"
+location = "A405"
+description = "第15周 周五 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-12T19:00:00+08:00"
+end_time = "2026-06-12T21:40:00+08:00"
+location = "A405"
+description = "第15周 周五 晚上 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-13T14:00:00+08:00"
+end_time = "2026-06-13T17:50:00+08:00"
+location = "A405"
+description = "第15周 周六 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-15T08:00:00+08:00"
+end_time = "2026-06-15T11:50:00+08:00"
+location = "A405"
+description = "第16周 周一 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-16T08:00:00+08:00"
+end_time = "2026-06-16T11:50:00+08:00"
+location = "A405"
+description = "第16周 周二 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-16T14:00:00+08:00"
+end_time = "2026-06-16T17:50:00+08:00"
+location = "A405"
+description = "第16周 周二 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-17T14:00:00+08:00"
+end_time = "2026-06-17T17:50:00+08:00"
+location = "A405"
+description = "第16周 周三 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-17T19:00:00+08:00"
+end_time = "2026-06-17T21:40:00+08:00"
+location = "A405"
+description = "第16周 周三 晚上 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-18T08:00:00+08:00"
+end_time = "2026-06-18T11:50:00+08:00"
+location = "A405"
+description = "第16周 周四 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-18T14:00:00+08:00"
+end_time = "2026-06-18T17:50:00+08:00"
+location = "A405"
+description = "第16周 周四 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-19T08:00:00+08:00"
+end_time = "2026-06-19T11:50:00+08:00"
+location = "A405"
+description = "第16周 周五 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-19T19:00:00+08:00"
+end_time = "2026-06-19T21:40:00+08:00"
+location = "A405"
+description = "第16周 周五 晚上 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-20T14:00:00+08:00"
+end_time = "2026-06-20T17:50:00+08:00"
+location = "A405"
+description = "第16周 周六 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-22T08:00:00+08:00"
+end_time = "2026-06-22T11:50:00+08:00"
+location = "A405"
+description = "第17周 周一 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-22T14:00:00+08:00"
+end_time = "2026-06-22T17:50:00+08:00"
+location = "A405"
+description = "第17周 周一 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-23T08:00:00+08:00"
+end_time = "2026-06-23T11:50:00+08:00"
+location = "A405"
+description = "第17周 周二 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-23T14:00:00+08:00"
+end_time = "2026-06-23T17:50:00+08:00"
+location = "A405"
+description = "第17周 周二 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-24T08:00:00+08:00"
+end_time = "2026-06-24T11:50:00+08:00"
+location = "A405"
+description = "第17周 周三 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-24T14:00:00+08:00"
+end_time = "2026-06-24T17:50:00+08:00"
+location = "A405"
+description = "第17周 周三 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-25T08:00:00+08:00"
+end_time = "2026-06-25T11:50:00+08:00"
+location = "A405"
+description = "第17周 周四 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-25T14:00:00+08:00"
+end_time = "2026-06-25T17:50:00+08:00"
+location = "A405"
+description = "第17周 周四 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-26T08:00:00+08:00"
+end_time = "2026-06-26T11:50:00+08:00"
+location = "A405"
+description = "第17周 周五 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-26T14:00:00+08:00"
+end_time = "2026-06-26T17:50:00+08:00"
+location = "A405"
+description = "第17周 周五 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-27T08:00:00+08:00"
+end_time = "2026-06-27T11:50:00+08:00"
+location = "A405"
+description = "第17周 周六 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-27T14:00:00+08:00"
+end_time = "2026-06-27T17:50:00+08:00"
+location = "A405"
+description = "第17周 周六 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-29T08:00:00+08:00"
+end_time = "2026-06-29T11:50:00+08:00"
+location = "A405"
+description = "第18周 周一 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-29T14:00:00+08:00"
+end_time = "2026-06-29T17:50:00+08:00"
+location = "A405"
+description = "第18周 周一 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-30T08:00:00+08:00"
+end_time = "2026-06-30T11:50:00+08:00"
+location = "A405"
+description = "第18周 周二 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-06-30T14:00:00+08:00"
+end_time = "2026-06-30T17:50:00+08:00"
+location = "A405"
+description = "第18周 周二 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-01T08:00:00+08:00"
+end_time = "2026-07-01T11:50:00+08:00"
+location = "A405"
+description = "第18周 周三 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-01T14:00:00+08:00"
+end_time = "2026-07-01T17:50:00+08:00"
+location = "A405"
+description = "第18周 周三 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-02T08:00:00+08:00"
+end_time = "2026-07-02T11:50:00+08:00"
+location = "A405"
+description = "第18周 周四 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-02T14:00:00+08:00"
+end_time = "2026-07-02T17:50:00+08:00"
+location = "A405"
+description = "第18周 周四 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-03T08:00:00+08:00"
+end_time = "2026-07-03T11:50:00+08:00"
+location = "A405"
+description = "第18周 周五 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-03T14:00:00+08:00"
+end_time = "2026-07-03T17:50:00+08:00"
+location = "A405"
+description = "第18周 周五 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-04T08:00:00+08:00"
+end_time = "2026-07-04T11:50:00+08:00"
+location = "A405"
+description = "第18周 周六 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-04T14:00:00+08:00"
+end_time = "2026-07-04T17:50:00+08:00"
+location = "A405"
+description = "第18周 周六 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-06T08:00:00+08:00"
+end_time = "2026-07-06T11:50:00+08:00"
+location = "A405"
+description = "第19周 周一 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-06T14:00:00+08:00"
+end_time = "2026-07-06T17:50:00+08:00"
+location = "A405"
+description = "第19周 周一 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-07T08:00:00+08:00"
+end_time = "2026-07-07T11:50:00+08:00"
+location = "A405"
+description = "第19周 周二 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-07T14:00:00+08:00"
+end_time = "2026-07-07T17:50:00+08:00"
+location = "A405"
+description = "第19周 周二 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-08T08:00:00+08:00"
+end_time = "2026-07-08T11:50:00+08:00"
+location = "A405"
+description = "第19周 周三 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-08T14:00:00+08:00"
+end_time = "2026-07-08T17:50:00+08:00"
+location = "A405"
+description = "第19周 周三 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-09T08:00:00+08:00"
+end_time = "2026-07-09T11:50:00+08:00"
+location = "A405"
+description = "第19周 周四 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-09T14:00:00+08:00"
+end_time = "2026-07-09T17:50:00+08:00"
+location = "A405"
+description = "第19周 周四 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-10T08:00:00+08:00"
+end_time = "2026-07-10T11:50:00+08:00"
+location = "A405"
+description = "第19周 周五 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-10T14:00:00+08:00"
+end_time = "2026-07-10T17:50:00+08:00"
+location = "A405"
+description = "第19周 周五 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-11T08:00:00+08:00"
+end_time = "2026-07-11T11:50:00+08:00"
+location = "A405"
+description = "第19周 周六 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-11T14:00:00+08:00"
+end_time = "2026-07-11T17:50:00+08:00"
+location = "A405"
+description = "第19周 周六 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-13T08:00:00+08:00"
+end_time = "2026-07-13T11:50:00+08:00"
+location = "A405"
+description = "第20周 周一 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-13T14:00:00+08:00"
+end_time = "2026-07-13T17:50:00+08:00"
+location = "A405"
+description = "第20周 周一 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-14T08:00:00+08:00"
+end_time = "2026-07-14T11:50:00+08:00"
+location = "A405"
+description = "第20周 周二 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-14T14:00:00+08:00"
+end_time = "2026-07-14T17:50:00+08:00"
+location = "A405"
+description = "第20周 周二 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-15T08:00:00+08:00"
+end_time = "2026-07-15T11:50:00+08:00"
+location = "A405"
+description = "第20周 周三 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-15T14:00:00+08:00"
+end_time = "2026-07-15T17:50:00+08:00"
+location = "A405"
+description = "第20周 周三 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-16T08:00:00+08:00"
+end_time = "2026-07-16T11:50:00+08:00"
+location = "A405"
+description = "第20周 周四 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-16T14:00:00+08:00"
+end_time = "2026-07-16T17:50:00+08:00"
+location = "A405"
+description = "第20周 周四 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-17T08:00:00+08:00"
+end_time = "2026-07-17T11:50:00+08:00"
+location = "A405"
+description = "第20周 周五 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-17T14:00:00+08:00"
+end_time = "2026-07-17T17:50:00+08:00"
+location = "A405"
+description = "第20周 周五 下午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-18T08:00:00+08:00"
+end_time = "2026-07-18T11:50:00+08:00"
+location = "A405"
+description = "第20周 周六 上午 A405"
+
+[[events]]
+title = "实训课(A405)"
+start_time = "2026-07-18T14:00:00+08:00"
+end_time = "2026-07-18T17:50:00+08:00"
+location = "A405"
+description = "第20周 周六 下午 A405"
